@@ -1,0 +1,5 @@
+---
+node_exporter::install_ensure: 'present'
+node_exporter::service_ensure: 'running'
+node_exporter::service_enable: true
+

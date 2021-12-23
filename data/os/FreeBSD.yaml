@@ -1,0 +1,2 @@
+node_exporter::install_name: 'node_exporter'
+node_exporter::service_name: 'node_exporter'
